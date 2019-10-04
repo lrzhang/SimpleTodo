@@ -36,7 +36,7 @@ This app was created using CodePath's video guides for Android API Level 27. Som
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Lee Zhang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
